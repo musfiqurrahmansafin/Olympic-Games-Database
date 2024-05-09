@@ -39,7 +39,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
    License
 
-This project is licensed under the [MIT License](LICENSE).name, last name, gender, country, and primary sport.
+This project is licensed under the [MIT License](https://opensource.org/license/mit) .name, last name, gender, country, and primary sport.
 6.   and  andResults  and  and: Tracks the outcomes achieved by athletes, including athlete ID, year, season, discipline, type, category, and medal type (if applicable).
 7.   and  andParticipation  and  and: Records which athletes participated in specific Olympic Games.
 
@@ -60,4 +60,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
    License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
